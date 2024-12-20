@@ -38,4 +38,3 @@ application.properties
 application.yml
 .env
 *.env
-SMSService.java
